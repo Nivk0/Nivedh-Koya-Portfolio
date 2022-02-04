@@ -1643,7 +1643,7 @@ content
   background: linear-gradient(159deg, #2d2d3a 0%, #2b2b35 100%);
 }
 .art-service-icon-box .art-service-ib-content {
-  padding: 100px;
+  padding: 30px;
 }
 .art-service-icon-box .art-service-ib-content .art-service-ib-icon {
   position: absolute;
@@ -1653,7 +1653,7 @@ content
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  width: 200px;
+  width: 150px;
   -ms-flex-item-align: center;
       align-self: center;
 }
