@@ -266,7 +266,7 @@ blockquote:after {
 .art-custom-list li {
   position: relative;
   list-style-type: none;
-  color: #fafafc;
+  color: #8c8c8e;
   margin-bottom: 5px;
 }
 .art-custom-list li:before {
