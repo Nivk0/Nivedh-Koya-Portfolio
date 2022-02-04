@@ -482,6 +482,8 @@ space
   margin-bottom: 25px;
 }
 
+f
+
 @media (max-width: 1400px) {
   .p-lg-30-0 {
     padding-top: 30px;
@@ -1521,7 +1523,7 @@ content
   margin-bottom: 30px;
 }
 .art-section-title .art-right-frame {
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 /* ----- card ----- */
@@ -1641,7 +1643,7 @@ content
   background: linear-gradient(159deg, #2d2d3a 0%, #2b2b35 100%);
 }
 .art-service-icon-box .art-service-ib-content {
-  padding: 30px;
+  padding: 100px;
 }
 .art-service-icon-box .art-service-ib-content .art-service-ib-icon {
   position: absolute;
@@ -1651,7 +1653,7 @@ content
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  width: 100px;
+  width: 200px;
   -ms-flex-item-align: center;
       align-self: center;
 }
