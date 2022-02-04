@@ -482,7 +482,9 @@ space
   margin-bottom: 25px;
 }
 
-f
+.mb-35 {
+  margin-bottom: 25px;
+}
 
 @media (max-width: 1400px) {
   .p-lg-30-0 {
@@ -609,7 +611,6 @@ app marcup
           align-items: center;
 }
 .art-app .art-app-wrapper {
-  max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
   background: #1e1e28;
@@ -620,6 +621,10 @@ app marcup
   overflow: hidden;
   -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
           box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
+}
+
+.testImg {
+  width: 100%
 }
 .art-app .art-app-wrapper .art-app-container {
   position: relative;
@@ -1653,7 +1658,7 @@ content
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  width: 150px;
+  width: 100px;
   -ms-flex-item-align: center;
       align-self: center;
 }
