@@ -562,7 +562,7 @@ app marcup
   stroke: #191923;
 }
 .art-preloader-load path:last-child {
-  stroke: #FFC107;
+  stroke: #87ceeb;
 }
 
 /* ----- scroll frame ----- */
@@ -1460,7 +1460,7 @@ menu bar
   transition: 0.4s ease-in-out;
 }
 .art-menu-bar .art-language-change li.art-active-lang {
-  background-color: #FFC107;
+  background-color: #87ceeb;
   -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
           box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
 }
@@ -1605,7 +1605,7 @@ content
 }
 .art-code i {
   font-style: normal;
-  color: #FFC107;
+  color: #87ceeb;
 }
 
 /* ----- counters ----- */
@@ -1696,7 +1696,7 @@ content
   padding: 2px;
   width: 200px;
   text-align: center;
-  background: #FFC107;
+  background: #87ceeb;
 }
 .art-price .art-price-body {
   position: relative;
@@ -1724,7 +1724,7 @@ content
 }
 .art-price .art-price-body .art-price-cost .art-number {
   font-size: 32px;
-  color: #FFC107;
+  color: #87ceeb;
   font-weight: 600;
   margin-bottom: 0;
 }
@@ -1873,7 +1873,7 @@ content
 }
 .art-slider-navigation .swiper-pagination-bullet.swiper-pagination-bullet-active {
   width: 20px;
-  background-color: #FFC107;
+  background-color: #87ceeb;
   opacity: 1;
 }
 .art-slider-navigation .art-slider-nav-frame {
@@ -2171,7 +2171,7 @@ content
   padding: 0 5px;
 }
 .art-pagination .art-pagination-center a.art-active-pag {
-  color: #FFC107;
+  color: #87ceeb;
 }
 .art-pagination .art-link {
   margin: 0;
