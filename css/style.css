@@ -97,7 +97,7 @@ common
 body {
   color: #8c8c8e;
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "var(--font-sans)", sans-serif;
   font-weight: 300;
   letter-spacing: 1px;
   font-smooth: subpixel-antialiased;
@@ -122,7 +122,7 @@ h1 {
 }
 
 h4 {
-  font-size:20px;
+  font-size: 20px;
   font-weight: 600;
 }
 
