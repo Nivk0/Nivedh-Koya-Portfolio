@@ -96,7 +96,7 @@ common
 /* ----- text defaults ----- */
 body {
   color: #8c8c8e;
-  font-size: 12px;
+  font-size: 18px;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   letter-spacing: 0.5px;
@@ -142,7 +142,7 @@ h6 {
 }
 
 .art-lg-text {
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .art-white {
